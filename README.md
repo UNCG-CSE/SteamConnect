@@ -18,15 +18,20 @@ SteamConnect will actively examine and analyze Steam application reviews. Steam 
 - Steam Customer Review System
 - Steam Web API
 - SteamDB
+- SteamSpy
 
 #### Brigham Young University Data Set
 The Brigham Young University data set contains information regarding applications data and user data for the year 2016. The data was gethered and used for the 2016 ACM Internet Measurement Conference article by Mark O'Neill, Justin Wu, Elham Vaziripour, and Daniel Zappala. The BYU website also has listed all of the table and attribute descriptions for the data set. It has an immense amount of information, totaling ~160gb of data.
 
 #### Steam Customer Review System
-Under construction
+Steam's customer review system allows users to rate games that they have played or purchased. These reviews consist of either a tumbs up or thumbs down review and a text field that allows the reviewer to further explain their reasoning. Other users are also allowed to vote whether the review is considered helpful or not to combat bogus reviews. Steam recently updated the review system, adding in a graph that depicts how reviews for games have changed over time using a bar graph. This will provide useful, as one of the intentions of SteamConnect is to examine these changes in reviews and determine the cause in the changes.
+
+![alt text](https://i.imgur.com/EWp9Es4.png "Steam Review Graph for PUBG")
 
 #### Steam Web API
-Under construction
+Steam exposes an HTTP based Web API which can be used to access many Steamworks features. The API contains public methods that can be accessed from any application capable of making an HTTP request, such as game client or server. The API also contains protected methods that require authentication and are intended to be accessed from trusted back-end applications.
+  
+A link to the Steam Web API documentation can be found [here.](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 
 #### SteamDB Website
 Under construction
