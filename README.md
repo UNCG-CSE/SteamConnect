@@ -34,7 +34,7 @@ Steam exposes an HTTP based Web API which can be used to access many Steamworks 
 A link to the Steam Web API documentation can be found [here.](https://developer.valvesoftware.com/wiki/Steam_Web_API)
 
 #### SteamDB Website
-Under construction
+[SteamDB](https://steamdb.info/) is a third-party tool that was made to give better insight into the different applications that Steam has within its database. SteamDB updates in real time the moment that Steam sends its own updates to the Steam client. While SteamDB does not allow data scraping from its own website, it utilized the Steam Web API as well, so the data available on SteamDB can be manually gathered. However, SteamDB is an excellent resource for visualizations of the information given through the API. It contains many different types of graphs and statistics for applications on Steam, such as most played, trending this week, popular releases, price tracking, player count and more. It is a great resource for quick viewing and comparison of counts for specific applications, and it will prove to be useful when we inevitably begin comparing real-time current statistics for applications.
 
 #### SteamSpy
 Under construction
