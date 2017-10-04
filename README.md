@@ -30,3 +30,6 @@ Under construction
 
 #### SteamDB Website
 Under construction
+
+#### SteamSpy
+Under construction
