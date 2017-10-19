@@ -3,6 +3,9 @@ This progress report will be updated notifying the project's current status and 
 ## Goals & Duties
 #### Amir
 #### Geoff
+  - data collection
+  - working with publisher and developer data
+  - some data wrangling
 #### Michael
 #### Jonathan
 - Documentation & notekeeping
