@@ -7,6 +7,8 @@ We need to narrow down how exactly we want to grade the games that we examine. A
 ### Current Player Count
 We've had the issue for a while now that we do not have current, up-to-date data for current player counts. A solution that could be proposed is using Steam's app data for player count over the course of a month, use that data to select the most populated time and then re-pull our data at that specific time. That was, we can get more current scores and player counts at peak times for our analysis. 
 
+**EDIT:** Steam itself has an app ID of 753. After viewing peak player times for days of the week, it seems that the amount of players on steam peak on Saturday or Sunday at 3:00PM. Ideally, we should re-pull our data soon on one of these days at that time to get the rough peak players.
+
 ### Ideas for more visualization
 To begin, a good idea would be to either check the app tags or pull a new data set with those tags and sort them by genre. Then, we can use those catoegories of tags to calculate and average score of early access game in x category. This will make for a good basis of information showing which early access genres are not performing as well as others. From there, we can focus on the most successful and least successful and focus on individual games.
 
