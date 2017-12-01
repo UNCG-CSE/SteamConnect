@@ -41,7 +41,7 @@ A link to the Steam Web API documentation can be found [here.](https://developer
 ![alt text](https://i.imgur.com/zHwB8gi.png "Example of PUBG through SteamDB")
 
 #### SteamSpy
-[SteamSpy](https://steamspy.com/) is a third-party tool that works similarly to SteamDB, giving easy access to Steam application data through the Steam API. However, rather than focusing on visualization like SteamDB, SteamSpy focuses more on gathering relevant data and displaying it in a more accessable way, with download links for .csv files provided to use the data they gather. This makes gathering data for SteamConnect easier, as specifically tagged games, such as early access, can be filtered and downloaded using SteamSpy. The data pulled from SteamSpy is updated by the minute in a similar fashion as SteamDB, giving easy access to real-time updated data from Steam applications.
+[SteamSpy](https://steamspy.com/) is a third-party tool that works similarly to SteamDB, giving easy access to Steam application data through the Steam API. However, rather than focusing on visualization like SteamDB, SteamSpy focuses more on gathering relevant data for individual games and displaying it in a more accessable way, with download links for .csv files provided to use the data they gather. This makes gathering data for SteamConnect easier, as specifically tagged games, such as early access, can be filtered and downloaded using SteamSpy. The data pulled from SteamSpy is updated by the minute in a similar fashion as SteamDB, giving easy access to real-time updated data from Steam applications.
 
 ![alt text](https://i.imgur.com/cZaZmUJ.png "Example of PUBG through SteamSpy")
 
