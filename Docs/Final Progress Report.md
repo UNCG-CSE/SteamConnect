@@ -3,6 +3,10 @@ This progress report will be updated notifying the project's current status and 
 ## Goals & Duties
 #### Amir
 #### Geoff
+-Presentation
+  -stats info and graphs
+ -statistical analysis of the data
+ -data collections and clean up
 #### Michael
 #### Jonathan
 - Presentations
