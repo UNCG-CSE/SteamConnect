@@ -5,3 +5,13 @@ This progress report will be updated notifying the project's current status and 
 #### Geoff
 #### Michael
 #### Jonathan
+- Presentations
+  - Creation of presentation, formatting, topics for all presentations
+- Documentation of project
+  - Readme
+  - Commenting
+- Correlation data & heat mapping
+  - Manipulation & wrangling of data
+  - Creation of appropriate data frames
+  - Calculation of correlation
+  - Creation of heatmap
