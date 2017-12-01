@@ -5,7 +5,9 @@
 **CSC 495-01 Data Science Fall 2017**
 
 ## Goal
-The overall goal of SteamConnect will be to examien and analyze Steam data gathered through various data sets and compare them to determine what genres or categories of games are more successful than others and why. This analysis will be done with mainly two major sources within Steam: early access games and Steam's review system. Using these two, we will be able to answer questions regarding the success or failure of early access and standard release games and hopefully pinpoint the reasons behind either.
+The overall goal of SteamConnect will be to examien and analyze Steam data gathered through various data sets and compare them to determine what genres or categories of games are more successful than others and why. This analysis will be done with mainly three major sources within Steam: early access game data, Steam's review system and the Steam Web API. Using these three, we will be able to answer questions regarding the success or failure of early access and standard release games and hopefully pinpoint the reasons behind either.
+
+**Null Hypothesis:** There is no difference between the scores of early access games and games that have been fully released.
 
 #### Early Access Games
 SteamConnect will examine game applications listen on Steam as early access games and analyze data for each. Early access games have a somewhat negative reputation in the gaming community, as it is easy for developers to simply drop development on an early access game, leaving users with a permanently unfinished game. Our analysis will look at tags and genres of each early access game, overall and recent reviews, updates and so on. This information will be useful in finding what types of early access games are successful in comparison to others.
@@ -41,8 +43,7 @@ A link to the Steam Web API documentation can be found [here.](https://developer
 #### SteamSpy
 [SteamSpy](https://steamspy.com/) is a third-party tool that works similarly to SteamDB, giving easy access to Steam application data through the Steam API. However, rather than focusing on visualization like SteamDB, SteamSpy focuses more on gathering relevant data and displaying it in a more accessable way, with download links for .csv files provided to use the data they gather. This makes gathering data for SteamConnect easier, as specifically tagged games, such as early access, can be filtered and downloaded using SteamSpy. The data pulled from SteamSpy is updated by the minute in a similar fashion as SteamDB, giving easy access to real-time updated data from Steam applications.
 
-## Grading
-To determine which games are the most successful, a grading system will be used to grade each game based on its attributes, such as price, player count, ownership, etc. These attributes will be used to calculate separate scores which will be used to conclude an average "success rating" to determine if a game is considered successful. By separating the different categories of scoring, certain misleading attributes, such as ratings being "review bombed," can possibly be avoided as their score will not total the entire grde for a specific game.
+![alt text](https://i.imgur.com/cZaZmUJ.png "Example of PUBG through SteamSpy")
 
-#### Owners & Players
-The attribute in the data for ownership contains a numeric count of how many Steam users own the game in question. The count of players keeps track of how many Steam users are currently playing the game. With these two counts, it is possible to determine the difference in how many users own the game compared to those that still play. Using this to determine success, the more users a game has retained since its launch can be used as a factor of its success, where successful games are still very active and not so successful games have lost their players over time.
+#### Results
+To be updated.
