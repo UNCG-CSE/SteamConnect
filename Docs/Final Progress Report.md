@@ -9,15 +9,15 @@ This progress report will be updated notifying the project's current status and 
  -data collections and clean up
  
 #### Michael
--Early_access_sorting notebook
-  -Pulled in the new data from json
-  -Made a 5 star grading system using pd.cut
-  -Made a graph showing the number of owners grouped by star rating
-  -Fixed the price data from pennies to dollar amounts
-  -Added a column to the data set for total reviews
-  -Figured out how to display the dataframe based on constraints
-  -Changed userscore values to positive divided by total
-  -Calculated a few correlations after looking at heat maps
+- Early_access_sorting notebook
+  - Pulled in the new data from json
+  - Made a 5 star grading system using pd.cut
+  - Made a graph showing the number of owners grouped by star rating
+  - Fixed the price data from pennies to dollar amounts
+  - Added a column to the data set for total reviews
+  - Figured out how to display the dataframe based on constraints
+  - Changed userscore values to positive divided by total
+  - Calculated a few correlations after looking at heat maps
   
 #### Jonathan
 - Presentations
